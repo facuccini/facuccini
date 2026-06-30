@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Facu
 
-I'm a molecular biologist with a Ph.D. focused on *Mycobacterium tuberculosis* and a data scientist in transition, driven by the application of machine learning to drug discovery, infectious diseases, and biomedical data analysis 🧬📊. My work integrates experimental microbiology, bioinformatics, and data science to extract actionable insights from complex biological datasets.
+I'm a molecular biologist with a Ph.D. focused on *Mycobacterium tuberculosis* and Data Scientist, driven by the application of machine learning to drug discovery, infectious diseases, and biomedical data analysis 🧬📊. My work integrates experimental microbiology, bioinformatics, and data science to extract actionable insights from complex biological datasets.
 
 In this GitHub profile, you'll find projects combining machine learning, cheminformatics, and systems biology, including predictive modeling of antimycobacterial compounds, analysis of multi-omics datasets, and data-driven approaches for target identification in tuberculosis. I also develop general data science projects to strengthen end-to-end analytical and modeling workflows applicable to real-world problems.
 
