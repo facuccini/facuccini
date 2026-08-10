@@ -1,21 +1,21 @@
 # Hi there 👋 I'm Facu
 
-I'm a molecular biologist with a Ph.D. focused on *Mycobacterium tuberculosis* and Data Scientist, driven by the application of machine learning to drug discovery, infectious diseases, and biomedical data analysis 🧬📊. My work integrates experimental microbiology, bioinformatics, and data science to extract actionable insights from complex biological datasets. During my PhD I worked in Seattle (Washington, USA), on a Fulbright Foundation scholarship for young researchers to work on a massive screening project of compound libraries against mycobacteria.
+I'm a Ph.D. focused on Data Scientist, driven by the application of machine learning to data analysis and problem solving 📊. My work integrates experimental data science to extract actionable insights from complex datasets. During my PhD I worked in Seattle (Washington, USA), on a Fulbright Foundation scholarship for young researchers.
 
-In this GitHub profile, you'll find projects combining machine learning, cheminformatics, and systems biology, including predictive modeling of antimycobacterial compounds, analysis of multi-omics datasets, and data-driven approaches for target identification in tuberculosis. I also develop general data science projects to strengthen end-to-end analytical and modeling workflows applicable to real-world problems.
+In this GitHub profile, you'll find projects combining general uses of machine learning, cheminformatics, and systems biology, including predictive modeling of antimycobacterial compounds, analysis of multi-omics datasets, and data-driven approaches for target identification in tuberculosis. I also develop general data science projects to strengthen end-to-end analytical and modeling workflows applicable to real-world problems.
 
 ---
 
 ## 🛠️ Tools
 
 **🐍 Programming & Development**
-Python · Git · Linux
+Python · SQL
 
 **🔢 Data Processing & Analysis**
 Pandas · NumPy · Jupyter Notebook · SciPy
 
 **📊 Data Visualization**
-Matplotlib · Seaborn · Plotly
+Matplotlib · Seaborn · Plotly · PowerBI
 
 **🤖 Machine Learning & Modeling**
 Scikit-learn · XGBoost · TensorFlow (basics) · SHAP · statistical learning methods
