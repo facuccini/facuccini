@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Facu
+# Hi there 👋 I'm Facundo
 
 I'm a Ph.D. focused on Data Scientist, driven by the application of machine learning to data analysis and problem solving 📊. My work integrates experimental data science to extract actionable insights from complex datasets. During my PhD I worked in Seattle (Washington, USA), on a Fulbright Foundation scholarship for young researchers.
 
