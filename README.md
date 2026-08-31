@@ -77,5 +77,4 @@ Biología de la tuberculosis · pipelines de descubrimiento de fármacos · dato
 Contacto:
 [www.linkedin.com/in/facundo-colaccini](https://www.linkedin.com/in/facundo-colaccini)
 
-Contact:
-www.linkedin.com/in/facundo-colaccini
+
